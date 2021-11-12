@@ -1,5 +1,5 @@
 # Homework-Week1
-FinTech Case Study
+
 # TITLE
 
 ## Overview and Origin
