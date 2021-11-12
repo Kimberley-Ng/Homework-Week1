@@ -1,6 +1,6 @@
 # Homework-Week1
 
-# TITLE
+# FinTech Company
 
 ## Overview and Origin
 
