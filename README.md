@@ -45,11 +45,7 @@ The following graph illustrates Stripe's growth in valuation to its most recent 
 
  Stripe understands that outdated financial infrastructure plagued with coding and design issues hinder the progress of the internet economy. 
  
-<<<<<<< HEAD
- Patrick Collison noted in an [interview](http://rev.vu/Va2Rj3?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=MIND+%26+MACHINE+Newsletter):
-=======
- Patrick Collison noted in an interview:
->>>>>>> 7576d230bf635de7fb837cf91f82a51c30b722f3
+Patrick Collison noted in an [interview](http://rev.vu/Va2Rj3?utm_campaign=Issue&utm_content=share&utm_medium=email&utm_source=MIND+%26+MACHINE+Newsletter):
 > The internet is nitrogen fertilizer. ... [Stripe wants to] unlock all sorts of entrepreneurship and economic activity that wouldn't otherwise have occurred.
 
 It intends to resolve the complexities of online payment processing with an integrated ecosystem across the value chain, designed for an exceptional user experience. Since, Stripe expanded its offerings to a suite of services intended to give entrepreneurs access to the building blocks that help in starting a global internet business, including fraud detection and identity verification.
