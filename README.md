@@ -2,8 +2,8 @@
 
 # Table of Contents
 
-## [1 | Overview and Origin](https://github.com/Kimberley-Ng/Homework-Week1#-1--overview-and-origin)
-## [2 | Business Activities](https://github.com/Kimberley-Ng/Homework-Week1#-2--business-activities)
+## [1 | Overview and Origin](https://github.com/Kimberley-Ng/Homework-Week1#1--overview-and-origin-1)
+## [2 | Business Activities](https://github.com/Kimberley-Ng/Homework-Week1#2--business-activities-1)
 ## [3 | Competitive Landscape](https://github.com/Kimberley-Ng/Homework-Week1#3--competitive-landscape-1)
 ## [4 | Company Performance](https://github.com/Kimberley-Ng/Homework-Week1#4--company-performance-1)
 ## [5 | Recommendations](https://github.com/Kimberley-Ng/Homework-Week1#5--recommendations-1)
