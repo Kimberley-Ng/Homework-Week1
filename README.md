@@ -2,17 +2,17 @@
 
 # Table of Contents
 
-## 1 | Overview and Origin
-## 2 | Business Activities
-## 3 | Competitive Landscape
-## 4 | Company Performance
-## 5 | Recommendations
-## 6 | References
-## 7 | Conclusion
+## [1 | Overview and Origin](#overview-and-origin)
+## [2 | Business Activities](#business-activities)
+## [3 | Competitive Landscape](https://github.com/Kimberley-Ng/Homework-Week1#3--competitive-landscape-1)
+## [4 | Company Performance](https://github.com/Kimberley-Ng/Homework-Week1#4--company-performance-1)
+## [5 | Recommendations](https://github.com/Kimberley-Ng/Homework-Week1#5--recommendations-1)
+## [6 | References](https://github.com/Kimberley-Ng/Homework-Week1#6--conclusion)
+## [7 | Conclusion](https://github.com/Kimberley-Ng/Homework-Week1#7--references)
 
 ---
 
-## **1 | Overview and Origin**
+## **Overview and Origin**
 
 ### **1.1 Overview**
 Stripe Inc ('Stripe') is fintech company specialising in digital checkout processing solutions. Stripe is categorised as a payment transactions company. Formed in 2010 by brothers, Patrick and John Collison, Stripe has become one of the biggest providers of payment software services and solutions in the United States. Its main service offering, Stripe Payments, allows merchants to accept payments online and via its mobile applications. 
@@ -37,7 +37,7 @@ The following graph illustrates Stripe's growth in valuation to its most recent 
 
 ![Valuation Graph](https://api.backlinko.com/app/uploads/2021/05/stripe-worth-1440x1440.webp)
 
-## **2 | Business Activities**
+## **Business Activities**
 
 ### **2.1 Company Vision and Mission**
 
