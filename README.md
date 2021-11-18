@@ -16,7 +16,7 @@
 ### **1.1 Overview**
 Stripe Inc ('Stripe') is fintech company specialising in digital checkout processing solutions. Stripe is in the payments/billing domain. Its main service offering, Stripe Payments, allows merchants to accept payments online and via its mobile applications. Formed in 2010 by brothers, Patrick and John Collison,Stripe has become one of the biggest providers of payment software services and solutions in the United States[^1].
 
-[^1]: 'Stripe, Inc.', (Web Page) < https://sec.report/CIK/0001691342>
+[^1]: 'Stripe, Inc.', (Web Page) < https://sec.report/CIK/0001691342>.
 
 A link to its website can be accessed [here](https://stripe.com/au?utm_campaign=908244709&utm_medium=cpc&utm_source=google&utm_content=301607044450&utm_term=stripe&utm_matchtype=e&utm_adposition=&utm_device=c&gclid=Cj0KCQiAhMOMBhDhARIsAPVml-Gh7oJjTmrWXyCz39osWeueaZXjH57OLiPydXk4YgVozPRxtVtX3xIaAmdBEALw_wcB). 
 
@@ -136,19 +136,19 @@ Further, building and implementing machine learning systems and POS software all
 
 There is a growing social commerce market. Whilst, this movement has been subtle in Australia, social networks in Asia (such as LINE and WeChat) have made considerable progress.[^15] For example, WeChat users can buy instantly within the chat app. This extends to booking taxis, flights, and doctor appointments, pay bills, make P2P payments, get directions, order food, shop, and read articles. A built in mobile payments platform which enables both online and in-store payments is a feature rather than a separate action.[^16] Stripe itself has already struck deals with Twitter and Facebook to begin offering services via their respective marketplaces.
 
-[^15]: *Payments & Transactions: Companies investing in the 10 key themes will dominate the payments industry* (Marketline Case Study, June 2021)
+[^15]: *Payments & Transactions: Companies investing in the 10 key themes will dominate the payments industry* (Marketline Case Study, June 2021).
 
-[^16]: Ibid
+[^16]: Ibid.
 
 *Payments Sector Embracing M&A to Grow Geographically*
 
 As the market becomes mature, fintech competition intensifies. Consolidation through a series of mergers and acquisitions has grown. Established fintechs are absorbing other emerging fintechs or established ones to augment their capabilities, expand services and adopt innovation faster.[^17]
 
-[^17]: *Fintech Consolidation process in the sector as large players move in* (Marketline Theme Report, March 2020)
+[^17]: *Fintech Consolidation process in the sector as large players move in* (Marketline Theme Report, March 2020).
  
 An increasing number of countries are attracting attracting large deals, including acquisitions in:[^18]
 
-[^18]: Ashwin Alexander et al, *The 2021 McKinsey Global Payments Report* (Report,October 2021)
+[^18]: Ashwin Alexander et al, *The 2021 McKinsey Global Payments Report* (Report,October 2021).
 
 | Country | Company | Acquisition Value |
 | ------- | --------| ----- | 
@@ -178,7 +178,7 @@ In payments processing, the largest players include:[^19]
 * Square Payments
 * Shopify Payments
 
-[^19]: *Global Financial Technology Market* (Marketline Company Report, March 2021)
+[^19]: *Global Financial Technology Market* (Marketline Company Report, March 2021).
 
 ## **4 | Company Performance**
 
@@ -320,7 +320,7 @@ SME merchants prioritise [ease of use and setup](https://www.mckinsey.com/~/medi
 
 Robo-advisors can lead to a competitive advantage in the industry. Currently, Stripe's ease of set-up is comparatively lower than PayPal.[^31] A robo-advisor designed to assist the custom Stripe integration can attract those with little to none developer knowledge. Having someone who could guide and assist users towards a self-managed solution adds value.
 
-[^31]: Marketline, *PayPal* (Master Company Report, November 2021)
+[^31]: Marketline, *PayPal* (Master Company Report, November 2021).
 
 *Improving Ease of Use*
 
@@ -336,7 +336,7 @@ This primarily relies on two technologies: (1) natural language processing and (
 
 First, natural language processing extracts meaning from human language to make decisions based on the information. This will enable the robo-advisor to to understand user queries and respond to questions adequately, automatically, and in real-time without human assistance. The objective is to reach a point where the robo-advisor is indistinguishable from a live agent. Second, through machine learning, robo-advisors will begin to understand intent by tracking how users respond to the answers they provide. They will learn and improve over time. Stripe should leverage machine learning to understand each individual and create a unique 'persona', based on their business type, user behaviour, preferences and commercial objectives.[^33]
 
-[^33]: Credence Analytics, *Chat based Robo-Advisors: A Game changer in the banking space* (White Paper)
+[^33]: Credence Analytics, *Chat based Robo-Advisors: A Game changer in the banking space* (White Paper).
 
 This would be supplemented by a combination of modules that may include language detection, ASR classification, context manager.[^34] These work in tandem with deep learning-based encoders to accurately understand natural language and handle user queries with higher precision. In-built contextual spell corrector, adversarial training, context retention can further improve bot accuracy.
 
